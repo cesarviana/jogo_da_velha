@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1395450106 source:c:\users\5429455\desktop\trabalho\jogo_da_velha\main.cpp
+	<iostream>
+	<conio2.h>
+
